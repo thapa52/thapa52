@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi!! I'm Pradeep Thapa
 
-<!--
-**thapa52/thapa52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | 2.5+ Years Professional Experience
 
-Here are some ideas to get you started:
+I am a Mobile Application Developer with 2.5 years of experience as the **sole mobile engineer** responsible for building and maintaining a production cross-platform application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+- ✅ Building scalable Flutter apps
+- ✅ Implementing complex UI from Figma/design specs
+- ✅ Integrating REST APIs
+- ✅ Optimizing app performance
+- ✅ Managing Android production releases
+
+---
+
+### 🛠 Tech Stack
+- **Mobile:** Flutter, Dart
+- **State Management:** GetX, RiverPod
+- **Architecture:** Clean Architecture, Repository Pattern
+- **Backend Integration:** REST APIs, Firebase
+- **Version Control:** Git
+
+---
+
+### 🎓 Education
+Bachelor of Computer Applications (BCA)
