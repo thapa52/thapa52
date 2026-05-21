@@ -1,26 +1,34 @@
-# Hi!! I'm Pradeep Thapa
+# Hi, I'm Pradeep Thapa 👋
 
-### Flutter Developer | 2.5+ Years Professional Experience
+### Flutter Developer | 2.5+ Years of Professional Experience
 
-I am a Mobile Application Developer with 2.5 years of experience as the **sole mobile engineer** responsible for building and maintaining a production cross-platform application.
+Mobile Application Developer with 2.5+ years of experience as the sole mobile engineer responsible for developing, maintaining, and scaling production-level cross-platform applications.
 
-I specialize in:
-- ✅ Building scalable Flutter apps
-- ✅ Implementing complex UI from Figma/design specs
-- ✅ Integrating REST APIs
-- ✅ Optimizing app performance
-- ✅ Managing Android production releases
+## 🚀 What I Do
 
----
+* Build scalable Flutter applications
+* Develop pixel-perfect UI from Figma designs
+* Integrate REST APIs and Firebase
+* Optimize app performance and responsiveness
+* Manage Android production releases
 
-### 🛠 Tech Stack
-- **Mobile:** Flutter, Dart
-- **State Management:** GetX, RiverPod
-- **Architecture:** Clean Architecture, Repository Pattern
-- **Backend Integration:** REST APIs, Firebase
-- **Version Control:** Git
+## 🛠 Tech Stack
 
----
+**Mobile Development**
+Flutter • Dart
 
-### 🎓 Education
+**State Management**
+GetX • Riverpod
+
+**Architecture**
+Clean Architecture • Repository Pattern
+
+**Backend & Services**
+REST APIs • Firebase
+
+**Version Control & Collaboration**
+Git • GitHub • Bitbucket
+
+## 🎓 Education
+
 Bachelor of Computer Applications (BCA)
