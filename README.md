@@ -1,4 +1,4 @@
-# Hi, I'm Pradeep Thapa 👋
+# Hi, I'm Pradeep Thapa
 
 ### Flutter Developer | 2.5+ Years of Professional Experience
 
