@@ -4,7 +4,7 @@
 
 Mobile Application Developer with 2.5+ years of experience as the sole mobile engineer responsible for developing, maintaining, and scaling production-level cross-platform applications.
 
-## 🚀 What I Do
+## What I Do
 
 * Build scalable Flutter applications
 * Develop pixel-perfect UI from Figma designs
@@ -12,7 +12,7 @@ Mobile Application Developer with 2.5+ years of experience as the sole mobile en
 * Optimize app performance and responsiveness
 * Manage Android production releases
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Mobile Development**
 Flutter • Dart
@@ -29,6 +29,6 @@ REST APIs • Firebase
 **Version Control & Collaboration**
 Git • GitHub • Bitbucket
 
-## 🎓 Education
+## Education
 
 Bachelor of Computer Applications (BCA)
