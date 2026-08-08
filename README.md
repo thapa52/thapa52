@@ -1,8 +1,8 @@
 # Hi, I'm Pradeep Thapa
 
-### Flutter Developer | 2.5+ Years of Professional Experience
+### Flutter Developer | 3+ Years of Professional Experience
 
-Mobile Application Developer with 2.5+ years of experience as the sole mobile engineer responsible for developing, maintaining, and scaling production-level cross-platform applications.
+Mobile Application Developer with 3+ years of experience as the sole mobile engineer responsible for developing, maintaining, and scaling production-level cross-platform applications.
 
 ## What I Do
 
